@@ -1,5 +1,7 @@
 ## PROJE HAZIRLAMA KILAVUZU
+
 ## LİDERLİK NEDİR ?
+
 Liderlik bir bireyin ortak bir hedefe ulaşmak için bir grup bireyi etkileme sürecidir.
 Lider,  bireyleri  ortak  hedeflere  yönelten,  hedefleri  benimseten,  bireyler  arası
 köprüyü oluşturan, dağınık güç ve bilgiyi bir araya toplayıp sinerji yaratan kişidir.
@@ -14,7 +16,9 @@ Lider;
   - Ahlak kurallarını bireysel menfaatlerinin önünde tutan,
   - Kararları takımıyla beraber alan,
   - Daima değişime açık kişidir.
-### LİDERLERİN ÖZELLİKLERİ NELERDİR?
+
+## LİDERLERİN ÖZELLİKLERİ NELERDİR?
+
 Eğer lider olmak istiyorsanız en iyi fikirleri bulmalı, uygulamalı ve hayatınız boyunca öğrenmeyi sürdürmelisiniz.
 Liderlerin temel özellikleri şunlardır:
   - Değişim mühendisidir ve yeniliklere daima açıktır.
@@ -42,18 +46,21 @@ esnekliğine sahiptir.
   - Başarının tüm çalışanlara ait olduğuna inanır.
 
 ## PROJE NEDİR?
+
 “Proje”;
-    - Belirli bir yerde
-    - Belirli bir zaman ve bütçe çerçevesinde
-    - Bir başlama ve bitiş noktasına sahip
-    - Belirlenmiş amaçlara ulaşılmasına yönelik planlanmış faaliyetler bütünüdür.
+  - Belirli bir yerde
+  - Belirli bir zaman ve bütçe çerçevesinde
+  - Bir başlama ve bitiş noktasına sahip
+  - Belirlenmiş amaçlara ulaşılmasına yönelik planlanmış faaliyetler bütünüdür.
+
 # Her Fikir bir Proje midir?
+
 Hayır, değildir. Bir fikrin proje olabilmesi için aşağıdaki sorulara cevap verebilecek
 olgunluğa erişmiş olması gerekmektedir.
-    - Nerede uygulanacak?
-    - Ne kadar sürede tamamlanacak?
-    - Belirlenen yer ve sürede hangi faaliyetler gerçekleştirilecek?
-    - Belirlenen yer ve sürede gerçekleştirilmesi planlanan faaliyetler için ne kadar mali kaynağa ihtiyaç var?
+  - Nerede uygulanacak?
+  - Ne kadar sürede tamamlanacak?
+  - Belirlenen yer ve sürede hangi faaliyetler gerçekleştirilecek?
+  - Belirlenen yer ve sürede gerçekleştirilmesi planlanan faaliyetler için ne kadar mali kaynağa ihtiyaç var?
 
 Tek bir etkinlik proje olarak değerlendirile
 mez. Proje, bir kaç etkinlik veya faaliyetin
@@ -71,36 +78,37 @@ dayandırılarak  açıklanmalı;  projeyi  uygulamak  isteyen  topluluk  kendi 
 doğrultusunda sorunun ne kadarına çözüm üretebileceğinin farkında olmalıdır.
 
 Proje Hazırlamanın Temel Adımları
-1.
-Proje  kapsamında  çözülmesi  amaçlanan  sorunun/konunun  ve  belirtilen
+
+1.Proje  kapsamında  çözülmesi  amaçlanan  sorunun/konunun  ve  belirtilen
 amaçların/hedeflerin  neye  dayanarak  ortaya  konulduğunu  varsa  veri,
 istatistik ve araştırma sonuçları kullanarak gerekçelendirilmelidir.
-2.
-Gerekçelendirmeye dayalı bir sorun ana
+
+2.Gerekçelendirmeye dayalı bir sorun ana
 lizi çerçevesinde, proje kapsamında
 çözümüne katkı sağlanması planlanan alt sorunlar belirlenmelidir.
-3.
-Belirlenen sorunlar doğrultusunda proje amaç ve hedefleri belirlenmelidir.
-4.
-Proje hedeflerine ulaşılması için yapılması gereken faaliyetler belirlenir
-5.
-Faa
-liyetlerin  gerçekleştirilmesi  sonucunda  proje  hedeflerine  ulaşılmasını
+
+3.Belirlenen sorunlar doğrultusunda proje amaç ve hedefleri belirlenmelidir.
+
+4.Proje hedeflerine ulaşılması için yapılması gereken faaliyetler belirlenir
+
+5.Faaliyetlerin  gerçekleştirilmesi  sonucunda  proje  hedeflerine ulaşılmasını
 sağlayacak sonuçlar olmalıdır. Sonuçlar ölçülebilir, net ve somut olmalıdır.
 Her bir temel faaliyetin bir sonucu olmalıdır.
-6.
-Projenin önemli unsurlarından biri sürdürülebilirliktir. Proj
+
+6.Projenin önemli unsurlarından biri sürdürülebilirliktir. Proj
 e  bittikten  sonra
 proje  faaliyetlerinin  ve  yaratılan  etkinin  nasıl  devam  ettirileceği,  yani
 sürdürülebilirliğini nasıl sağlanacağı belirlenmelidir.
-7.
-Projenin başarısı için önemli noktalardan birisi olan proje uygulama ekibi
+
+7.Projenin başarısı için önemli noktalardan birisi olan proje uygulama ekibi
 dikkatlice oluşturulmalıdır.
+
 ## BAŞVURU FORMU VE BÖLÜMLERİ
 
-  1. ÖZET
+##  1. ÖZET
 
 # Projenin Adı:
+
 Proje adı, projeyi diğer projelerden ayıran unsurlardan biridir ve projeye ilişkin küçük
 bir özet olarak düşünülebilir. Projenize ilgi çekici, kolay anlaşılır bir başlık vermeyi
 tercih edebilirsiniz. Proje adının uzun ve cümle şeklinde olmaması tavsiye edi
@@ -112,6 +120,7 @@ teklifinizi
 doğru şekilde yansıttığından emin olunuz.
 
 # Projenin Süresi:
+
 Faaliyet planı zamanlama olarak gerçek tarihler üzerinden hesaplanmalı, başvuru
 sahiplerinin, ihtiyaten faaliyet planı takvimlerinde belirli bir zaman aralığını fazladan
 bırakmaları
@@ -119,9 +128,11 @@ bırakmaları
 faaliyet planı ve proje süresine dâhil edilmelidir.
 
 # Projenin Uygulanacağı Yer/ler
+
 Projenin gerçekleşeceği yer/ler (bölge, il, ilçe, mahalle/köy) bu bölümde yazılmalıdır.
 
 # Projenin Genel Amacı
+
 Proje, çözülmesine katkıda bulunacağınız genel soruna işaret eder. Önemli olan,
 projenizin genel amaca ulaşmak konusunda yapacağı katkıdır. Projenizin ele aldığı
 sorunun çözümüne yönelik faaliyetler ve çıktıların, hangi genel sorunun çözümüne
@@ -130,6 +141,7 @@ bulunacağı bu bölümde ifade edilmelidir. Dolayısıyla bu bölümde projeniz
 çözümüne katkıda bulunacağı temel sorun tanımlanır.
 
 # Projenin Hedefi/leri
+
 Projenin  hedefleri;  proje  kapsamındaki  faaliyetlerin  gerçekleşmesi  ile  ulaşılmak
 istenen sonuçlardır. Pro
 jeniz tamamlandıktan sonra ulaşılmasını istediğiniz durum,
@@ -140,19 +152,22 @@ ayısıyla grubunuzun ve proje takımınızın kapasitesiyle orantılı,
 gerçekçi hedefler koymanız gerekir.
 
 # Hedef Gruplar
+
 Projenizden  doğrudan  ve  olumlu  olarak  etkilenecek  grup,  kurum,  kuruluş  veya
 kuruluşlar projenizin hedef gruplarıdır.
 
 # Proje Faaliyetleri
+
 Pro
 je hedeflerine ulaşılması amacı ile gerçekleştirilmesi planlanan temel faaliyetler
 yazılmalıdır.
 
 # Beklenen Sonuçlar
+
 Projenin ve proje kapsamında gerçekleştirilmesi planlanan faaliyetlerden beklenen
 sonuçlar ana başlıklar halinde yazılmalıdır.
 
-  2. AMAÇLAR
+##  2. AMAÇLAR
 
 Projenin katkıda bulunmayı amaçladığı genel amacı ve başarmayı amaçladığı özel
 hedefleri bu bölümde açıklanmalıdır. Genel amaç ve özel hedefleri detaylı olarak
@@ -166,7 +181,7 @@ r. Böylelikle proje gerçekleştikten sonra projenin söz
 konusu  sorunun  çözümünü  nasıl  sağladığı  ya  da  çözümüne  nasıl  katkıda
 bulunduğunun doğrulayıcı göstergeleri net bir şekilde ortaya konulabilir.
 
-  3. GEREKÇELENDİRME
+##  3. GEREKÇELENDİRME
 
 Bu bölümde projenize neden gerek duyulduğu
 aktarılmalıdır. Bu bölüm yazılmadan
@@ -177,7 +192,7 @@ aklara dayandırılması projenizin sağlam
 temellere oturması açısından büyük önem taşımaktadır. Bu sebeple kullandığınız
 veriler için kaynaklarınızı belirtmeyi unutmayınız.
 
-  3.1. Projenin, yarışmanın hedefleri ve öncelikleri ile ilgisi
+###  3.1. Projenin, yarışmanın hedefleri ve öncelikleri ile ilgisi
 
 Projenizin genel amacının ve özel amaçlarının yarışma konusu, amacı ve hedefleri ile
 olan ilgisi bu bölümde yazılmalıdır.
@@ -188,7 +203,7 @@ konusu/amacı ve hedefleri ile uyumlu olmalı ve örtüşmelidir. Başvuru formu
 bölümünde projenizin yarışma konusu ile ilişkisi açık, anlaşılır ve dolaysız bir biçimde
 ortaya koyulmalıdır.
 
-  3.2.Belirlenen ihtiyaç ve sorunların tanımlanması
+###  3.2.Belirlenen ihtiyaç ve sorunların tanımlanması
 
 Projenizin genel amacını ve özel hedeflerini ortaya koymanızdaki sebepleri yazınız ve
 açıklayınız.
@@ -205,7 +220,7 @@ statistikler,  raporlar  ve
 somut kaynaklardan edilen
 veriler kullanılmalıdır.
 
-  3.3.Hedef  grubun(ların)  tanımı  ve  tahmini  sayıları.  Bu  hedef  grubun(ların) seçilme  nedenleri  ve  bu  grupların  ihtiyaçlarının  ve  sorunlarının tanımlanması.  Bu  proje,  hedef  grubun(ların)  ihtiyaçlarına  nasıl  cevap verecek?
+###  3.3.Hedef  grubun(ların)  tanımı  ve  tahmini  sayıları.  Bu  hedef  grubun(ların) seçilme  nedenleri  ve  bu  grupların  ihtiyaçlarının  ve  sorunlarının tanımlanması.  Bu  proje,  hedef  grubun(ların)  ihtiyaçlarına  nasıl  cevap verecek?
 
 Bu bölümde hed
 ef grup veya gruplar ile nihai yararlanıcılar tanımlamalı, bu grupların
@@ -232,7 +247,7 @@ mlarken genel ifadeler kullanab
 ilir. Ancak, hedef grup/lar net
 olmalıdır. Konuyla doğrudan ilgisi olmayanlar bu gruba eklenmemelidir.
 
-  4. FAALİYETLERİN AYRINTILI AÇIKLAMASI
+##  4. FAALİYETLERİN AYRINTILI AÇIKLAMASI
 
 Proje hedeflerine ve sonuçlara ulaşmak amacıyla gerçekleştirilecek her bir faaliyetin
 adını ve detaylı açıklaması bel
@@ -251,7 +266,7 @@ olarak yazılmalıdır.Gerçekleştirmek istediğiniz faaliyete ait açıklamala
 sonra inceleyecek olan kişilere ne yapmak istediğinizi açıkça anlatacak ayrıntıları
 içermelidir.
 
-4.1. SÜRE VE FAALİYET PLANI
+### 4.1. SÜRE VE FAALİYET PLANI
 
 Bu  bölümde  projenizi  gerçekleştirmek  için  gerekli  tüm  faaliyetlerin  toplam
 zamanından hareketle, projenizin ne kadar sürede biteceği belirtilmeli ve buna bağlı
