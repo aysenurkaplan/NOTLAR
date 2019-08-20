@@ -276,5 +276,46 @@ irilmesi gereken bütün işlerin
 yer aldığı projeniz için izlenecek yol haritasıdır. Faaliyet planı, her bir faaliyetin
 hazırlık ve uygulamasına ait genel bir görüş verecek şekilde yeterli ayrıntıya sahip
 olmalıdır.
-Faaliyet planı aşağıdaki format kullanılar
-ak hazırlanmalıdır.
+Gerçekleştirmek istediğiniz faaliyete ait açıklamalar, projeleri değerlendiren ve daha
+sonra inceleyecek olan kişilere ne yapmak istediğinizi açıkça anlatacak ayrıntıları
+içermelidir.
+
+### 4.2 BEKLENEN SONUÇLAR
+
+#### 7.1.Hedef Gruplar/Yararlanıcılar Üzerinde Beklenen Etki
+
+Belirlemiş  olduğunuz  hedef  grubun/grupların  mevcut  durumu  bu  bölümde
+anlatılmalı,  “proje  hedef  grupların  ve  yararlanıcıların  mevcut  durumunu  nasıl
+iyileştirecek", “hedef grupların ihtiyaç ve sorunlarının çözümüne proje nasıl katkı
+sağlayacak” gibi soruları
+n cevapları ayrıntılı şekilde verilmelidir.
+
+#### 7.2.Somut Çıktılar
+
+Proje  faaliyetlerinin  tamamlanması  sonucunda  elde  edilmesini  öngörülen  proje
+sonuçlarının  tahmini  sayısal,  ölçülebilir  bilgileri  verilmelidir.  Sonuçlar,  proje
+faaliyetleri dolayısıyla ortaya çıkan etkilerdir. Her bir temel faaliyet için bir tane
+sonuç beli
+rlenmelidir. Eğer temel faaliyetin bir sonucu yoksa bu bir alt faaliyettir.
+Temel faaliyet birden fazla sonuca yol açıyorsa o zaman bu temel faaliyeti iki ayrı
+temel faaliyet olarak ele almak gerekir.
+
+#### 7.3.Çarpan Etkisi
+
+Çarpan  etkisi,  proje  faaliyetlerinin,
+sonuçlarının  yayılması  ve  örnek  alınmasıdır.
+Çarpan etkisi, projelerin bir katma değeridir ve projenin olumlu etkilerinin uzun
+vadede devam ettiği hallerde söz konusu olabilir.
+Çarpan etkisi, proje sonuçlarının başka alanlarda tekrarlanması, model alınmas
+ı,
+proje sayesinde üretilen bilginin yayılması ya da hedef grup ve nihai yararlanıcılar
+dolayısıyla projeden etkilenenlerin sayısındaki artış biçiminde olabilir.
+
+### 4.3.GÖRÜNÜRLÜK FAALİYETLERİ
+
+Projenizi, grubunuzu ve Genç Liderler Akademisini görünür kılmak ve
+tanıtmak için
+planlanan çalışmalar bu bölümde ayrıntılandırılmalıdır.
+
+
+[KAYNAK](https://docplayer.biz.tr/11192739-Proje-hazirlama-kilavuzu.html)
