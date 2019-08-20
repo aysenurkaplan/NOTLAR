@@ -77,30 +77,30 @@ erin neye dayanarak ortaya konulduğu veri, istatistik ve araştırma sonuçlar�
 dayandırılarak  açıklanmalı;  projeyi  uygulamak  isteyen  topluluk  kendi  kapasitesi
 doğrultusunda sorunun ne kadarına çözüm üretebileceğinin farkında olmalıdır.
 
-Proje Hazırlamanın Temel Adımları
+## Proje Hazırlamanın Temel Adımları
 
-1.Proje  kapsamında  çözülmesi  amaçlanan  sorunun/konunun  ve  belirtilen
+1. Proje  kapsamında  çözülmesi  amaçlanan  sorunun/konunun  ve  belirtilen
 amaçların/hedeflerin  neye  dayanarak  ortaya  konulduğunu  varsa  veri,
 istatistik ve araştırma sonuçları kullanarak gerekçelendirilmelidir.
 
-2.Gerekçelendirmeye dayalı bir sorun ana
+2. Gerekçelendirmeye dayalı bir sorun ana
 lizi çerçevesinde, proje kapsamında
 çözümüne katkı sağlanması planlanan alt sorunlar belirlenmelidir.
 
-3.Belirlenen sorunlar doğrultusunda proje amaç ve hedefleri belirlenmelidir.
+3. Belirlenen sorunlar doğrultusunda proje amaç ve hedefleri belirlenmelidir.
 
-4.Proje hedeflerine ulaşılması için yapılması gereken faaliyetler belirlenir
+4. Proje hedeflerine ulaşılması için yapılması gereken faaliyetler belirlenir
 
-5.Faaliyetlerin  gerçekleştirilmesi  sonucunda  proje  hedeflerine ulaşılmasını
+5. Faaliyetlerin  gerçekleştirilmesi  sonucunda  proje  hedeflerine ulaşılmasını
 sağlayacak sonuçlar olmalıdır. Sonuçlar ölçülebilir, net ve somut olmalıdır.
 Her bir temel faaliyetin bir sonucu olmalıdır.
 
-6.Projenin önemli unsurlarından biri sürdürülebilirliktir. Proj
+6. Projenin önemli unsurlarından biri sürdürülebilirliktir. Proj
 e  bittikten  sonra
 proje  faaliyetlerinin  ve  yaratılan  etkinin  nasıl  devam  ettirileceği,  yani
 sürdürülebilirliğini nasıl sağlanacağı belirlenmelidir.
 
-7.Projenin başarısı için önemli noktalardan birisi olan proje uygulama ekibi
+7. Projenin başarısı için önemli noktalardan birisi olan proje uygulama ekibi
 dikkatlice oluşturulmalıdır.
 
 ## BAŞVURU FORMU VE BÖLÜMLERİ
